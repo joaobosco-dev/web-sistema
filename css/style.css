@@ -430,7 +430,15 @@ flex-direction: column;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+<<<<<<< HEAD
   background-image: url(../images/meme.jpg);
+=======
+<<<<<<< HEAD
+  background-image: url(../images/wallpaper.jpg);
+=======
+  background-image: url(../images/paisagem.jpg);
+>>>>>>> 1952066b084896f276886f17ce02ee6ca11ffc0e
+>>>>>>> 24fedb67c1a019e1bd6a563d4aa654e6bcda450b
   background-size: cover;
 }
 
