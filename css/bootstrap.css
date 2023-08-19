@@ -63,6 +63,12 @@ body {
   background-color: #fff;
 }
 
+.login{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }

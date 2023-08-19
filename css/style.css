@@ -258,6 +258,28 @@ a:focus {
   transition: all .3s;
 }
 
+.login{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+input[type='date'] {
+  height: 20px;
+  width: 40px;
+}
+
+.formulario {
+  margin: 10px 0;
+}
+
+.formulario > label,input{
+display: flex;
+flex-direction: column;
+
+}
+
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
   color: #ffffff;
   background-color: #000000;
@@ -408,7 +430,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-image: url(../images/slider-bg.jpg);
+  background-image: url(../images/meme.jpg);
   background-size: cover;
 }
 
