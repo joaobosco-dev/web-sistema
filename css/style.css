@@ -408,7 +408,11 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-image: url(../images/slider-bg.jpg);
+<<<<<<< HEAD
+  background-image: url(../images/wallpaper.jpg);
+=======
+  background-image: url(../images/paisagem.jpg);
+>>>>>>> 1952066b084896f276886f17ce02ee6ca11ffc0e
   background-size: cover;
 }
 
